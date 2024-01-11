@@ -16,7 +16,7 @@ import pandas as pd
 # In[5]:
 
 
-df = pd.read_csv("C:\\Users\\Sachi\\Downloads\\merged_data.csv")
+df = pd.read_csv("merged_data.csv")
 
 
 # In[6]:
